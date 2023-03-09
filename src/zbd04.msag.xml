@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZBD04</ARBGB>
+    <MASTERLANG>I</MASTERLANG>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>I</SPRSL>
+     <ARBGB>ZBD04</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>non sono presenti record dal range di id inseriti</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>I</SPRSL>
+     <ARBGB>ZBD04</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>non è stata spunta la visualizzazione</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
